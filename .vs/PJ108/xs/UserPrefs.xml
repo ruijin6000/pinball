@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0F48E537-6663-20F1-8343-BC8499457104}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CamerFollow.cs">
+    <Files>
+      <File FileName="Assets/Script/obj.cs" Line="17" Column="13" />
+      <File FileName="Assets/Script/Flipper_Script.cs" Line="8" Column="31" />
+      <File FileName="Assets/Script/PlungerScript.cs" Line="70" Column="70" />
+      <File FileName="Assets/Script/ball.cs" Line="39" Column="13" />
+      <File FileName="Assets/Script/CamerFollow.cs" Line="11" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

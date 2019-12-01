@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: eed08f03e7be8472ab0d3e40851c0595
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCircle_002_CUBezierCircle_002
+    100002: BezierCircle_003_CUBezierCircle_003
+    100004: CINEMA_4D_Editor
+    100006: Circle_001
+    100008: Circle_002
+    100010: Circle_003
+    100012: Cube_008_Cube_012
+    100014: Cube_009_Cube_013
+    100016: Cube_010_Cube_014
+    100018: Cube_011_Cube_015
+    100020: Cube_012_Cube_016
+    100022: Cube_013_Cube_017
+    100024: Cube_015_Cube_019
+    100026: Cube_016_Cube_020
+    100028: Cube_017_Cube_021
+    100030: Cylinder_004_Cylinder_005
+    100032: Cylinder_005_Cylinder_006
+    100034: Cylinder_006_Cylinder_007
+    100036: Cylinder_007_Cylinder_008
+    100038: Plane_005_Plane_007
+    100040: Plane_006_Plane_008
+    100042: Plane_007_Plane_009
+    100044: Plane_008_Plane_010
+    100046: //RootNode
+    100048: scene_obj
+    100050: Sphere_001
+    400000: BezierCircle_002_CUBezierCircle_002
+    400002: BezierCircle_003_CUBezierCircle_003
+    400004: CINEMA_4D_Editor
+    400006: Circle_001
+    400008: Circle_002
+    400010: Circle_003
+    400012: Cube_008_Cube_012
+    400014: Cube_009_Cube_013
+    400016: Cube_010_Cube_014
+    400018: Cube_011_Cube_015
+    400020: Cube_012_Cube_016
+    400022: Cube_013_Cube_017
+    400024: Cube_015_Cube_019
+    400026: Cube_016_Cube_020
+    400028: Cube_017_Cube_021
+    400030: Cylinder_004_Cylinder_005
+    400032: Cylinder_005_Cylinder_006
+    400034: Cylinder_006_Cylinder_007
+    400036: Cylinder_007_Cylinder_008
+    400038: Plane_005_Plane_007
+    400040: Plane_006_Plane_008
+    400042: Plane_007_Plane_009
+    400044: Plane_008_Plane_010
+    400046: //RootNode
+    400048: scene_obj
+    400050: Sphere_001
+    2000000: CINEMA_4D_Editor
+    2100000: Default
+    2300000: BezierCircle_002_CUBezierCircle_002
+    2300002: BezierCircle_003_CUBezierCircle_003
+    2300004: Circle_001
+    2300006: Circle_002
+    2300008: Circle_003
+    2300010: Cube_008_Cube_012
+    2300012: Cube_009_Cube_013
+    2300014: Cube_010_Cube_014
+    2300016: Cube_011_Cube_015
+    2300018: Cube_012_Cube_016
+    2300020: Cube_013_Cube_017
+    2300022: Cube_015_Cube_019
+    2300024: Cube_016_Cube_020
+    2300026: Cube_017_Cube_021
+    2300028: Cylinder_004_Cylinder_005
+    2300030: Cylinder_005_Cylinder_006
+    2300032: Cylinder_006_Cylinder_007
+    2300034: Cylinder_007_Cylinder_008
+    2300036: Plane_005_Plane_007
+    2300038: Plane_006_Plane_008
+    2300040: Plane_007_Plane_009
+    2300042: Plane_008_Plane_010
+    2300044: Sphere_001
+    3300000: BezierCircle_002_CUBezierCircle_002
+    3300002: BezierCircle_003_CUBezierCircle_003
+    3300004: Circle_001
+    3300006: Circle_002
+    3300008: Circle_003
+    3300010: Cube_008_Cube_012
+    3300012: Cube_009_Cube_013
+    3300014: Cube_010_Cube_014
+    3300016: Cube_011_Cube_015
+    3300018: Cube_012_Cube_016
+    3300020: Cube_013_Cube_017
+    3300022: Cube_015_Cube_019
+    3300024: Cube_016_Cube_020
+    3300026: Cube_017_Cube_021
+    3300028: Cylinder_004_Cylinder_005
+    3300030: Cylinder_005_Cylinder_006
+    3300032: Cylinder_006_Cylinder_007
+    3300034: Cylinder_007_Cylinder_008
+    3300036: Plane_005_Plane_007
+    3300038: Plane_006_Plane_008
+    3300040: Plane_007_Plane_009
+    3300042: Plane_008_Plane_010
+    3300044: Sphere_001
+    4300000: Plane_005_Plane_007
+    4300002: Plane_006_Plane_008
+    4300004: Cube_008_Cube_012
+    4300006: Cylinder_004_Cylinder_005
+    4300008: Cylinder_005_Cylinder_006
+    4300010: Cylinder_006_Cylinder_007
+    4300012: Cube_009_Cube_013
+    4300014: BezierCircle_002_CUBezierCircle_002
+    4300016: Circle_001
+    4300018: Cylinder_007_Cylinder_008
+    4300020: Plane_007_Plane_009
+    4300022: Sphere_001
+    4300024: BezierCircle_003_CUBezierCircle_003
+    4300026: Cube_010_Cube_014
+    4300028: Cube_011_Cube_015
+    4300030: Cube_012_Cube_016
+    4300032: Cube_013_Cube_017
+    4300034: Cube_015_Cube_019
+    4300036: Plane_008_Plane_010
+    4300038: Cube_016_Cube_020
+    4300040: Cube_017_Cube_021
+    4300042: Circle_002
+    4300044: Circle_003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
